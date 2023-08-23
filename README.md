@@ -1,6 +1,6 @@
 # Turtulesim Shapes
 
-![Repository Banner](link_to_banner_image_here.jpg)
+![Repository Banner](shapes.png)
 
 ## Overview
 
